@@ -1,6 +1,6 @@
 [submodule "javascripts/btapp"]
 	path = javascripts/btapp
-	url = git://github.com/pwmckenna/btapp.git
+	url = git://github.com/bittorrenttorque/btapp.git
 [submodule "javascripts/jStorage"]
 	path = javascripts/jStorage
 	url = git://github.com/pwmckenna/jStorage.git
